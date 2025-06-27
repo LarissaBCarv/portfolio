@@ -2,10 +2,11 @@
   "name": "meu-portifolio",
   "version": "0.0.1",
   "scripts": {
-    "postinstall": "chmod +x node_modules/.bin/vite",
-    "build": "npx vite build",
-    "start": "vite"
-  },
+  "dev": "vite",
+  "build": "npx vite build",
+  "postinstall": "chmod +x node_modules/.bin/vite",
+  "start": "vite",
+}
   "devDependencies": {
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",

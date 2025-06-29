@@ -24,8 +24,8 @@ const Projects = () => {
     {
       titulo: "MoodBoard",
       descricao: "Inspirações visuais reunidas para guiar as emoções.",
-      imagem: "/construcao.png",
-      link: "#",
+      imagem: "/moodBoard.gif",
+      link: "https://mood-board-zeta.vercel.app/",
     },
     {
       titulo: "Projeto Fúria",

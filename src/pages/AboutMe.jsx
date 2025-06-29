@@ -14,7 +14,6 @@ const AboutMe = () => {
         Seu navegador não suporta vídeos.
       </video>
 
-      {/* FOTO: relativo no mobile, absolute no desktop */}
       <img
         src="/foto.png"
         alt="Foto"
@@ -29,7 +28,6 @@ const AboutMe = () => {
         "
       />
 
-      {/* TÍTULO: relativo no mobile, absolute no desktop */}
       <h1
         className="
           text-5xl sm:text-7xl font-anton text-[#2c2c2c] z-10
@@ -45,7 +43,6 @@ const AboutMe = () => {
         Sobre mim
       </h1>
 
-      {/* TEXTO: relativo no mobile, absolute no desktop */}
       <p
         className="
           text-[#2c2c2c] text-base sm:text-lg font-open-sans z-10 leading-relaxed

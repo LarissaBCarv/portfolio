@@ -12,7 +12,7 @@ const Projects = () => {
       titulo: "Orçaê",
       descricao:
         "Plataforma para encontrar orçamentos atualizados e economizar tempo e dinheiro.",
-      imagem: "/portfolio.png",
+      imagem: "/construcao.png",
       link: "https://orcae.vercel.app/",
     },
     {

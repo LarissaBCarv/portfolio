@@ -9,6 +9,13 @@ const Projects = () => {
       link: "/",
     },
     {
+      titulo: "Orçaê",
+      descricao:
+        "Plataforma para encontrar orçamentos atualizados e economizar tempo e dinheiro.",
+      imagem: "/portfolio.png",
+      link: "https://orcae.vercel.app/",
+    },
+    {
       titulo: "Nosso Aniversário",
       descricao:
         "Um site criado como presente, feito para planejar momentos inesquecíveis.",
@@ -22,9 +29,9 @@ const Projects = () => {
       link: "#",
     },
     {
-      titulo: "MoodBoard",
+      titulo: "MoodBoard (Não Responsivo)",
       descricao: "Inspirações visuais reunidas para guiar as emoções.",
-      imagem: "/moodBoard.gif",
+      imagem: "/construcao.png",
       link: "https://mood-board-zeta.vercel.app/",
     },
     {
